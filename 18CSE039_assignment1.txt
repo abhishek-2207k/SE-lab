@@ -1,0 +1,25 @@
+1-Project name is "Ice-cream delivery website"
+
+2-Hardware Specification-(a typical laptop)4gb ram
+			 500gb hard disk
+
+3-the problem statement is that the -Nowadays everyone wants quick delivery and
+					this is the lockdown period ,so considering
+					the social distancing issue,there are few websites 
+					which are doing this.
+			
+				    
+4-Our problem's financial cost is that the user have to visit ice-cream parlour,
+  But in our website user have to just order sitting at home,so we can say its  
+  petrol and energy saving.
+
+5&6   --our website has a functionality that you are not supposed
+	to register to order an ice-cream ,who will do such a long 
+	process  to just order an ice-cream,we will ensure a quick	
+	delivery by storing your address and payment details in our database
+	and your favourite choices information would be stored in your browser 
+ 	like adding your favourite in cart without user login.we have also provided
+	the cash on delivery facility.		
+
+7-we conclude that the world is turning into digitality and we are providing a
+  a user-friendly interface to place order and having a safe delivery	     								 
